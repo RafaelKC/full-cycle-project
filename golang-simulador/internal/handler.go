@@ -39,7 +39,7 @@ type DeliveryStartedEvent struct {
 
 func NewDeliveryStartedEvent(routeId string) *DeliveryStartedEvent {
 	return &DeliveryStartedEvent{
-		EventName: "DeliveryStated",
+		EventName: "DeliveryStarted",
 		RouteId:   routeId,
 	}
 }
