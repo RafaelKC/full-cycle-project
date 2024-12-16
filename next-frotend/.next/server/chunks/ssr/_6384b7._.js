@@ -29,7 +29,7 @@ function Home() {
                     }, void 0, false, {
                         fileName: "[project]/src/app/page.tsx",
                         lineNumber: 7,
-                        columnNumber: 9
+                        columnNumber: 11
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$15$2e$1$2e$0_react$2d$dom$40$19$2e$0$2e$0_react$40$19$2e$0$2e$0_$5f$react$40$19$2e$0$2e$0$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("ol", {
                         className: "list-inside list-decimal text-sm text-center sm:text-left font-[family-name:var(--font-geist-mono)]",
@@ -45,27 +45,27 @@ function Home() {
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/page.tsx",
                                         lineNumber: 18,
-                                        columnNumber: 13
+                                        columnNumber: 15
                                     }, this),
                                     "."
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/page.tsx",
                                 lineNumber: 16,
-                                columnNumber: 11
+                                columnNumber: 13
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$15$2e$1$2e$0_react$2d$dom$40$19$2e$0$2e$0_react$40$19$2e$0$2e$0_$5f$react$40$19$2e$0$2e$0$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                                 children: "Save and see your changes instantly."
                             }, void 0, false, {
                                 fileName: "[project]/src/app/page.tsx",
                                 lineNumber: 23,
-                                columnNumber: 11
+                                columnNumber: 13
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/page.tsx",
                         lineNumber: 15,
-                        columnNumber: 9
+                        columnNumber: 11
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$15$2e$1$2e$0_react$2d$dom$40$19$2e$0$2e$0_react$40$19$2e$0$2e$0_$5f$react$40$19$2e$0$2e$0$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                         className: "flex gap-4 items-center flex-col sm:flex-row",
@@ -85,14 +85,14 @@ function Home() {
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/page.tsx",
                                         lineNumber: 33,
-                                        columnNumber: 13
+                                        columnNumber: 15
                                     }, this),
                                     "Deploy now"
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/page.tsx",
                                 lineNumber: 27,
-                                columnNumber: 11
+                                columnNumber: 13
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$15$2e$1$2e$0_react$2d$dom$40$19$2e$0$2e$0_react$40$19$2e$0$2e$0_$5f$react$40$19$2e$0$2e$0$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
                                 className: "rounded-full border border-solid border-black/[.08] dark:border-white/[.145] transition-colors flex items-center justify-center hover:bg-[#f2f2f2] dark:hover:bg-[#1a1a1a] hover:border-transparent text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5 sm:min-w-44",
@@ -103,19 +103,19 @@ function Home() {
                             }, void 0, false, {
                                 fileName: "[project]/src/app/page.tsx",
                                 lineNumber: 42,
-                                columnNumber: 11
+                                columnNumber: 13
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/page.tsx",
                         lineNumber: 26,
-                        columnNumber: 9
+                        columnNumber: 11
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/app/page.tsx",
                 lineNumber: 6,
-                columnNumber: 7
+                columnNumber: 9
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$15$2e$1$2e$0_react$2d$dom$40$19$2e$0$2e$0_react$40$19$2e$0$2e$0_$5f$react$40$19$2e$0$2e$0$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("footer", {
                 className: "row-start-3 flex gap-6 flex-wrap items-center justify-center",
@@ -135,14 +135,14 @@ function Home() {
                             }, void 0, false, {
                                 fileName: "[project]/src/app/page.tsx",
                                 lineNumber: 59,
-                                columnNumber: 11
+                                columnNumber: 13
                             }, this),
                             "Learn"
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/page.tsx",
                         lineNumber: 53,
-                        columnNumber: 9
+                        columnNumber: 11
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$15$2e$1$2e$0_react$2d$dom$40$19$2e$0$2e$0_react$40$19$2e$0$2e$0_$5f$react$40$19$2e$0$2e$0$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
                         className: "flex items-center gap-2 hover:underline hover:underline-offset-4",
@@ -159,14 +159,14 @@ function Home() {
                             }, void 0, false, {
                                 fileName: "[project]/src/app/page.tsx",
                                 lineNumber: 74,
-                                columnNumber: 11
+                                columnNumber: 13
                             }, this),
                             "Examples"
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/page.tsx",
                         lineNumber: 68,
-                        columnNumber: 9
+                        columnNumber: 11
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$15$2e$1$2e$0_react$2d$dom$40$19$2e$0$2e$0_react$40$19$2e$0$2e$0_$5f$react$40$19$2e$0$2e$0$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
                         className: "flex items-center gap-2 hover:underline hover:underline-offset-4",
@@ -183,26 +183,26 @@ function Home() {
                             }, void 0, false, {
                                 fileName: "[project]/src/app/page.tsx",
                                 lineNumber: 89,
-                                columnNumber: 11
+                                columnNumber: 13
                             }, this),
                             "Go to nextjs.org →"
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/page.tsx",
                         lineNumber: 83,
-                        columnNumber: 9
+                        columnNumber: 11
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/app/page.tsx",
                 lineNumber: 52,
-                columnNumber: 7
+                columnNumber: 9
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/src/app/page.tsx",
         lineNumber: 5,
-        columnNumber: 5
+        columnNumber: 7
     }, this);
 }
 }}),

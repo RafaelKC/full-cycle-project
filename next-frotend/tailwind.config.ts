@@ -10,7 +10,12 @@ export default {
     extend: {
       colors: {
         default: "#242526",
+        main: "#ffcd00"
       },
+      textColor: {
+        primary: "#242526",
+        contrast: "#FFFFFF",
+      }
     },
   },
   plugins: [],

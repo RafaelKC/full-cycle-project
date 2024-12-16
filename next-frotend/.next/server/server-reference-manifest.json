@@ -1,5 +1,17 @@
 {
-  "node": {},
+  "node": {
+    "60d28617cfa9b2a37d9fb5cf55a0a9665a04efb327": {
+      "workers": {
+        "app/new-route/page": {
+          "moduleId": "[project]/.next-internal/server/app/new-route/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/app/new-route/create-route.action.ts [app-rsc] (ecmascript)\" } [app-rsc] (ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/new-route/page": "action-browser"
+      }
+    }
+  },
   "edge": {},
   "encryptionKey": "IbmnlVCLacmCBPcHoYM6Mglsyg1yfEaLg+v6InTte+E="
 }
