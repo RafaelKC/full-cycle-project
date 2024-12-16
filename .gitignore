@@ -4,3 +4,11 @@
 */dist/
 
 */.env
+
+
+*/.next
+*/.next/
+/.next
+/.next/
+
+/next-frontend/.next/
